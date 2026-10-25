@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=00C7FF&center=true&vCenter=true&width=900&height=60&lines=DevSecOps+Engineer;Azure+Cloud+%7C+Terraform+%7C+IaC;CI%2FCD+Automation+%7C+Pipeline+Security;Building+repeatable+and+secure+cloud+platforms" alt="Animated DevSecOps headline" />
 
 
-### 🚀 DevSecOps Engineer | Microsoft Azure | Terraform | CI/CD
+### 🚀 DevSecOps Engineer | Microsoft Azure | Terraform | CI/CD Automation | Docker | Kubernetes
 
 **Cloud Infrastructure · Automation · Security · Reliability**
 
