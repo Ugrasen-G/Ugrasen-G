@@ -1,10 +1,14 @@
+```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,40:0078D4,100:00C7FF&height=230&section=header&text=MD%20Amirul%20Haque&fontSize=46&fontColor=ffffff&animation=fadeIn" alt="Animated DevSecOps profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,40:0078D4,100:00C7FF&height=230&section=header&text=Ugrasen%20Gangwar&fontSize=46&fontColor=ffffff&animation=fadeIn" alt="Animated DevOps profile banner" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=00C7FF&center=true&vCenter=true&width=900&height=60&lines=Senior+DevSecOps+Engineer;Azure+Cloud+%7C+Terraform+%7C+IaC;CI%2FCD+Automation+%7C+Pipeline+Security;Building+repeatable+and+secure+cloud+platforms" alt="Animated DevSecOps headline" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=00C7FF&center=true&vCenter=true&width=900&height=60&lines=Azure+DevOps+Engineer;Azure+Cloud+%7C+Terraform+%7C+IaC;CI%2FCD+Automation+%7C+GitHub+Actions;Building+Reliable+and+Scalable+Cloud+Infrastructure" alt="Animated Azure DevOps headline" />
 </a>
+
+</div>
+```
 
 ### 🔐 Senior DevSecOps Engineer | Microsoft Azure | Terraform | CI/CD
 
