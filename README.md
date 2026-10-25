@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! I'm passionate about building projects, learning
 🌱 Learning new technologies and improving my coding skills.
 💡 Interested in software development, web development, and problem-solving.
 🎯 Goal: Build impactful projects and grow as a developer.
-📫 Reach me at: your.email@example.com
+📫 Reach me at: ugrasen.gangwar0210@gmail.com
 🛠️ Tech Stack
 
 Languages
