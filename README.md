@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,40:0078D4,100:00C7FF&height=230&section=header&text=Ugrasen%20Gangwar&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%" alt="Ugrasen Gangwar"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=00C7FF&center=true&vCenter=true&width=900&height=60&lines=Senior+DevSecOps+Engineer;Azure+Cloud+%7C+Terraform+%7C+IaC;CI%2FCD+Automation+%7C+Pipeline+Security;Building+repeatable+and+secure+cloud+platforms" alt="Animated DevSecOps headline" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=00C7FF&center=true&vCenter=true&width=900&height=60&lines=DevSecOps+Engineer;Azure+Cloud+%7C+Terraform+%7C+IaC;CI%2FCD+Automation+%7C+Pipeline+Security;Building+repeatable+and+secure+cloud+platforms" alt="Animated DevSecOps headline" />
 
 
-### 🔐 Senior DevSecOps Engineer | Microsoft Azure | Terraform | CI/CD
+### 🚀 DevSecOps Engineer | Microsoft Azure | Terraform | CI/CD
 
 **Cloud Infrastructure · Automation · Security · Reliability**
 
@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I am a **Senior DevSecOps Engineer with 6+ years of experience** across Azure cloud, CI/CD, and infrastructure automation, based on the professional summary on my LinkedIn profile. My focus is building repeatable infrastructure, improving delivery workflows, and bringing security checks earlier into the software delivery lifecycle.
+I am a **DevSecOps Engineer with 6+ years of experience** across Azure cloud, CI/CD, and infrastructure automation, based on the professional summary on my LinkedIn profile. My focus is building repeatable infrastructure, improving delivery workflows, and bringing security checks earlier into the software delivery lifecycle.
 
 I work with **Microsoft Azure, Terraform, GitHub Actions, Azure DevOps Pipelines, Linux, Docker, scripting, and cloud security practices**. My portfolio documents hands-on learning and implementation work; each repository describes what is currently implemented versus planned.
 
