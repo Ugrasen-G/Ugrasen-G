@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I am a **Senior DevSecOps Engineer with 5+ years of experience** across Azure cloud, CI/CD, and infrastructure automation, based on the professional summary on my LinkedIn profile. My focus is building repeatable infrastructure, improving delivery workflows, and bringing security checks earlier into the software delivery lifecycle.
+I am a **Senior DevSecOps Engineer with 6+ years of experience** across Azure cloud, CI/CD, and infrastructure automation, based on the professional summary on my LinkedIn profile. My focus is building repeatable infrastructure, improving delivery workflows, and bringing security checks earlier into the software delivery lifecycle.
 
 I work with **Microsoft Azure, Terraform, GitHub Actions, Azure DevOps Pipelines, Linux, Docker, scripting, and cloud security practices**. My portfolio documents hands-on learning and implementation work; each repository describes what is currently implemented versus planned.
 
