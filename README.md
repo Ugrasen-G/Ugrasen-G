@@ -10,7 +10,7 @@
 
 **Cloud Infrastructure · Automation · Security · Reliability**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugra-sen-40a14a2b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugra-sen-40a14a2b6/?isSelfProfile=true)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ugrasen-G?tab=repositories)
 [![Location](https://img.shields.io/badge/Location-Noida-16803D?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Ugrasen-G)
 
