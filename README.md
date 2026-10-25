@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-amirul-haque/)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haqueamir70-coder?tab=repositories)
-[![Location](https://img.shields.io/badge/Location-Saudi%20Arabia-16803D?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/haqueamir70-coder)
+[![Location](https://img.shields.io/badge/Location-Saudi%20Arabia-16803D?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Ugrasen-G)
 
 </div>
 
@@ -57,11 +57,6 @@ flowchart TD
 | 🐧 **Systems & Scripting** | Linux, Bash, PowerShell, Git, Python fundamentals |
 | 📊 **Operations mindset** | Troubleshooting, logging/monitoring concepts, change review, documentation, cost and security awareness |
 
-## 🏅 Microsoft Certifications
-
-- **AZ-104** — Microsoft Azure Administrator
-- **AZ-400** — Designing and Implementing Microsoft DevOps Solutions
-- **AZ-305** — Designing Microsoft Azure Infrastructure Solutions
 
 ## 🚀 Featured Projects
 
@@ -117,10 +112,3 @@ Build, scan, and generate an SBOM for a container image using GitHub Actions. Re
 
 I welcome conversations about Azure DevOps, DevSecOps, Terraform, CI/CD automation, and cloud infrastructure opportunities.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-amirul-haque/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,50:0078D4,100:0B1F3A&height=110&section=footer" alt="Blue DevSecOps profile footer" width="100%" />
-
-</div>
