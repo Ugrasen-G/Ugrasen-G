@@ -63,33 +63,33 @@ flowchart TD
 ### 1. 🔐 Azure DevSecOps Platform
 Modular Terraform project with environment configuration, separate application and management network security groups, and a GitHub Actions workflow for formatting, validation, linting, and IaC scanning. Check the latest workflow run for validation status.
 
-[**Explore Azure DevSecOps Platform →**](https://github.com/haqueamir70-coder/azure-devsecops-platform) · [**GitHub Actions runs →**](https://github.com/haqueamir70-coder/azure-devsecops-platform/actions) · [**Threat Model**](https://github.com/haqueamir70-coder/azure-devsecops-platform/blob/main/docs/threat-model.md) · [**Operations Runbook**](https://github.com/haqueamir70-coder/azure-devsecops-platform/blob/main/docs/operations-runbook.md)
+[**Explore Azure DevSecOps Platform →**](https://github.com/Ugrasen-G/azure-devops-repo) · [**GitHub Actions runs →**](https://github.com/Ugrasen-G/azure-devops-repo) · [**Threat Model**](https://github.com/Ugrasen-G/azure-devops-repo) · [**Operations Runbook**](https://github.com/Ugrasen-G/azure-devops-repo)
 
 ### 2. 🏢 Azure Enterprise 3-Tier Architecture
 Terraform portfolio project exploring Azure networking and selected application, data, security, and monitoring resources. Review the README for current limitations and validation requirements.
 
-[**Explore 3-Tier Architecture →**](https://github.com/haqueamir70-coder/azure-enterprise-3-tier-architecture)
+[**Explore 3-Tier Architecture →**](https://github.com/Ugrasen-G/github-action-pipeline)
 
 ### 3. ☁️ Azure Production Landing Zone
 Terraform project covering resource organization, virtual networking, subnets, NSGs, and selected identity/security components. Assess the actual configuration and validation evidence in the repository before treating it as production-ready.
 
-[**Explore Azure Landing Zone →**](https://github.com/haqueamir70-coder/azure-production-landing-zone) · [**Architecture Decisions**](https://github.com/haqueamir70-coder/azure-production-landing-zone/blob/main/docs/architecture-decisions.md)
+[**Explore Azure Landing Zone →**](https://github.com/Ugrasen-G/github-action-pipeline) · [**Architecture Decisions**](https://github.com/Ugrasen-G/github-action-pipeline)
 
-### 4. 🔄 Azure Terraform CI/CD
+### 4. 🔄 CI/CD Pipeline - Github Action 
 Portfolio project for connecting Terraform workflows with GitHub Actions and Azure.
 
-[**Explore Terraform CI/CD →**](https://github.com/haqueamir70-coder/azure-terraform-cicd) · [**Security Policy**](https://github.com/haqueamir70-coder/azure-terraform-cicd/blob/main/SECURITY.md)
+[**Explore Terraform CI/CD →**](https://github.com/Ugrasen-G/github-action-pipeline) · [**Security Policy**](https://github.com/Ugrasen-G/github-action-pipeline)
 
 ### 5. 🐳 Dockerized Application DevOps
 Sample application and deployment configuration for practising container-based delivery workflows.
 
-[**Explore Dockerized Application →**](https://github.com/haqueamir70-coder/dockerized-application-devops) · [**Container Security Checklist**](https://github.com/haqueamir70-coder/dockerized-application-devops/blob/main/docs/container-security-checklist.md)
+[**Explore Dockerized Application →**](https://github.com/Ugrasen-G/azurerm_kubernetes_services) · [**Container Security Checklist**](https://github.com/Ugrasen-G/azurerm_kubernetes_services)
 
 ### 6. 🛡️ Secure Container Supply Chain
 
 Build, scan, and generate an SBOM for a container image using GitHub Actions. Review workflow runs and security findings before treating the pipeline as validated.
 
-[**Explore Secure Container Supply Chain →**](https://github.com/haqueamir70-coder/dockerized-application-devops/tree/main/projects/secure-container-supply-chain) · [**Container Security Workflow →**](https://github.com/haqueamir70-coder/dockerized-application-devops/blob/main/.github/workflows/container-security.yml)
+[**Explore Secure Container Supply Chain →**](https://github.com/Ugrasen-G/azurerm_kubernetes_services) · [**Container Security Workflow →**](https://github.com/Ugrasen-G/azurerm_kubernetes_services)
 
 ## 🔒 How I Approach DevSecOps
 
