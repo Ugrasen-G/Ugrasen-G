@@ -63,7 +63,7 @@ flowchart TD
 ### 1. 🔐 Azure DevSecOps Platform
 Modular Terraform project with environment configuration, separate application and management network security groups, and a GitHub Actions workflow for formatting, validation, linting, and IaC scanning. Check the latest workflow run for validation status.
 
-[**Explore Azure DevSecOps Platform →**](https://github.com/Ugrasen-G/azure-devops-repo) · [**GitHub Actions runs →**](https://github.com/Ugrasen-G/azure-devops-repo) · [**Threat Model**](https://github.com/Ugrasen-G/azure-devops-repo) · [**Operations Runbook**](https://github.com/Ugrasen-G/azure-devops-repo)
+[**Explore Azure DevSecOps Platform →**](https://github.com/Ugrasen-G/azure-devops-repo) · [**GitHub Actions runs →**](https://github.com/Ugrasen-G/github-action-pipeline) · [**Threat Model**](https://github.com/Ugrasen-G/azure-devops-repo) · [**Operations Runbook**](https://github.com/Ugrasen-G/azure-devops-repo)
 
 ### 2. 🏢 Azure Enterprise 3-Tier Architecture
 Terraform portfolio project exploring Azure networking and selected application, data, security, and monitoring resources. Review the README for current limitations and validation requirements.
